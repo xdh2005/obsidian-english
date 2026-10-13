@@ -1,0 +1,5 @@
+﻿git dir: True
+---plugins---
+main.js  756.6KB
+manifest.json  0.3KB
+styles.css  22.7KB
